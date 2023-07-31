@@ -1,0 +1,15 @@
+/home/a2bv/git-edu/Seminar3/ex23_cube/bin/Debug/net7.0/ex23_cube
+/home/a2bv/git-edu/Seminar3/ex23_cube/bin/Debug/net7.0/ex23_cube.deps.json
+/home/a2bv/git-edu/Seminar3/ex23_cube/bin/Debug/net7.0/ex23_cube.runtimeconfig.json
+/home/a2bv/git-edu/Seminar3/ex23_cube/bin/Debug/net7.0/ex23_cube.dll
+/home/a2bv/git-edu/Seminar3/ex23_cube/bin/Debug/net7.0/ex23_cube.pdb
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/ex23_cube.csproj.AssemblyReference.cache
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/ex23_cube.GeneratedMSBuildEditorConfig.editorconfig
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/ex23_cube.AssemblyInfoInputs.cache
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/ex23_cube.AssemblyInfo.cs
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/ex23_cube.csproj.CoreCompileInputs.cache
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/ex23_cube.dll
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/refint/ex23_cube.dll
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/ex23_cube.pdb
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/ex23_cube.genruntimeconfig.cache
+/home/a2bv/git-edu/Seminar3/ex23_cube/obj/Debug/net7.0/ref/ex23_cube.dll

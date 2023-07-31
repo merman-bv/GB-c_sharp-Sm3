@@ -1,0 +1,15 @@
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/bin/Debug/net7.0/ex22_sqrt
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/bin/Debug/net7.0/ex22_sqrt.deps.json
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/bin/Debug/net7.0/ex22_sqrt.runtimeconfig.json
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/bin/Debug/net7.0/ex22_sqrt.dll
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/bin/Debug/net7.0/ex22_sqrt.pdb
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/ex22_sqrt.csproj.AssemblyReference.cache
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/ex22_sqrt.GeneratedMSBuildEditorConfig.editorconfig
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/ex22_sqrt.AssemblyInfoInputs.cache
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/ex22_sqrt.AssemblyInfo.cs
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/ex22_sqrt.csproj.CoreCompileInputs.cache
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/ex22_sqrt.dll
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/refint/ex22_sqrt.dll
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/ex22_sqrt.pdb
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/ex22_sqrt.genruntimeconfig.cache
+/home/a2bv/git-edu/Seminar3/ex22_sqrt/obj/Debug/net7.0/ref/ex22_sqrt.dll

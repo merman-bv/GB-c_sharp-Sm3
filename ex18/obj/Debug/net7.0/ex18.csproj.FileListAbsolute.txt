@@ -1,0 +1,15 @@
+/home/a2bv/git-edu/Seminar3/ex18/bin/Debug/net7.0/ex18
+/home/a2bv/git-edu/Seminar3/ex18/bin/Debug/net7.0/ex18.deps.json
+/home/a2bv/git-edu/Seminar3/ex18/bin/Debug/net7.0/ex18.runtimeconfig.json
+/home/a2bv/git-edu/Seminar3/ex18/bin/Debug/net7.0/ex18.dll
+/home/a2bv/git-edu/Seminar3/ex18/bin/Debug/net7.0/ex18.pdb
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/ex18.csproj.AssemblyReference.cache
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/ex18.GeneratedMSBuildEditorConfig.editorconfig
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/ex18.AssemblyInfoInputs.cache
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/ex18.AssemblyInfo.cs
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/ex18.csproj.CoreCompileInputs.cache
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/ex18.dll
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/refint/ex18.dll
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/ex18.pdb
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/ex18.genruntimeconfig.cache
+/home/a2bv/git-edu/Seminar3/ex18/obj/Debug/net7.0/ref/ex18.dll

@@ -1,0 +1,15 @@
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/ex19_palindrome.csproj.AssemblyReference.cache
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/ex19_palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/ex19_palindrome.AssemblyInfoInputs.cache
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/ex19_palindrome.AssemblyInfo.cs
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/ex19_palindrome.csproj.CoreCompileInputs.cache
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/bin/Debug/net7.0/ex19_palindrome
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/bin/Debug/net7.0/ex19_palindrome.deps.json
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/bin/Debug/net7.0/ex19_palindrome.runtimeconfig.json
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/bin/Debug/net7.0/ex19_palindrome.dll
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/bin/Debug/net7.0/ex19_palindrome.pdb
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/ex19_palindrome.dll
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/refint/ex19_palindrome.dll
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/ex19_palindrome.pdb
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/ex19_palindrome.genruntimeconfig.cache
+/home/a2bv/git-edu/Seminar3/ex19_palindrome/obj/Debug/net7.0/ref/ex19_palindrome.dll
